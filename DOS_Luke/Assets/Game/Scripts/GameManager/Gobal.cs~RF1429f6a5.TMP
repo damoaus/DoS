@@ -1,0 +1,27 @@
+﻿using UnityEngine;
+using System.Collections;
+using UnityEngine.UI;
+
+public class Gobal : MonoBehaviour {
+
+
+    public static float Heath = 100;
+    public static float Gold = 100;
+    public Text health;
+    public Text gold;
+
+    void Update()
+    {
+        health.text = Heath.ToString();
+        gold.text = Gold.ToString();
+    }
+
+
+        // temp Health for damo to change when he makes the GUI
+        /* void OnGUI()
+         {
+             GUI.color = Color.red;
+             GUI.Label(new Rect(20, 20, 200, 20), "Health = " + (100 - Heath));
+         }
+      */
+    }

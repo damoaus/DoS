@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictator of Serenity_Damo_4-11-2016 new.CSharp", "Dictator of Serenity_Damo_4-11-2016 new.CSharp.csproj", "{21EBF088-D5F5-8A68-C625-05A8681904C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictator of Serenity_Damo_4-11-2016 new.CSharp.Editor", "Dictator of Serenity_Damo_4-11-2016 new.CSharp.Editor.csproj", "{C58B9593-7A17-D96A-8324-1E591A0C95E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21EBF088-D5F5-8A68-C625-05A8681904C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EBF088-D5F5-8A68-C625-05A8681904C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EBF088-D5F5-8A68-C625-05A8681904C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EBF088-D5F5-8A68-C625-05A8681904C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58B9593-7A17-D96A-8324-1E591A0C95E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58B9593-7A17-D96A-8324-1E591A0C95E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58B9593-7A17-D96A-8324-1E591A0C95E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58B9593-7A17-D96A-8324-1E591A0C95E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

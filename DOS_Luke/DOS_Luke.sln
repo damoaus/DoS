@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOS_Luke.CSharp", "DOS_Luke.CSharp.csproj", "{90EE2A22-0C33-F5F1-5366-46B457D50361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOS_Luke.CSharp.Editor", "DOS_Luke.CSharp.Editor.csproj", "{3FCF9972-9E7E-0893-8891-C79202BE6884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EE2A22-0C33-F5F1-5366-46B457D50361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EE2A22-0C33-F5F1-5366-46B457D50361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EE2A22-0C33-F5F1-5366-46B457D50361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EE2A22-0C33-F5F1-5366-46B457D50361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCF9972-9E7E-0893-8891-C79202BE6884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCF9972-9E7E-0893-8891-C79202BE6884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCF9972-9E7E-0893-8891-C79202BE6884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCF9972-9E7E-0893-8891-C79202BE6884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

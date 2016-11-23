@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictator of Serenity_Luke_4-11-2016.CSharp", "Dictator of Serenity_Luke_4-11-2016.CSharp.csproj", "{107F6EFE-96AE-72CC-E5F4-E049A36806CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictator of Serenity_Luke_4-11-2016.CSharp.Editor", "Dictator of Serenity_Luke_4-11-2016.CSharp.Editor.csproj", "{F7D53912-DF61-A6E6-0DEE-587A478A3634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107F6EFE-96AE-72CC-E5F4-E049A36806CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107F6EFE-96AE-72CC-E5F4-E049A36806CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107F6EFE-96AE-72CC-E5F4-E049A36806CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107F6EFE-96AE-72CC-E5F4-E049A36806CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D53912-DF61-A6E6-0DEE-587A478A3634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D53912-DF61-A6E6-0DEE-587A478A3634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D53912-DF61-A6E6-0DEE-587A478A3634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D53912-DF61-A6E6-0DEE-587A478A3634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

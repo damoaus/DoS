@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C659EE42-47DF-2866-4FBB-D40860CDE9F5}") = "Dictator of Serenity_Damo 31-10-16", "Assembly-CSharp.csproj", "{37319D65-37C0-C376-5B02-C68ECB447F8E}"
+EndProject
+Project("{C659EE42-47DF-2866-4FBB-D40860CDE9F5}") = "Dictator of Serenity_Damo 31-10-16", "Assembly-CSharp-Editor.csproj", "{E84D9C57-45C4-C2CB-7D1E-14828E815668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37319D65-37C0-C376-5B02-C68ECB447F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37319D65-37C0-C376-5B02-C68ECB447F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37319D65-37C0-C376-5B02-C68ECB447F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37319D65-37C0-C376-5B02-C68ECB447F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E84D9C57-45C4-C2CB-7D1E-14828E815668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84D9C57-45C4-C2CB-7D1E-14828E815668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84D9C57-45C4-C2CB-7D1E-14828E815668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84D9C57-45C4-C2CB-7D1E-14828E815668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
